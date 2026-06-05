@@ -29,6 +29,12 @@ FunWAF 是一款基于 Rust 构建的新一代 Web 应用防火墙（WAF），�
 
 ## 界面展示
 
+### 预览Demo
+[预览Demo页面](https://waf.quqimeng.com/demo/)
+Demo页面制作中...
+Demo账号: demo
+Demo密码: 12345678
+
 ### 仪表盘
 
 实时监控 CPU、内存、网络流量，请求统计与攻击趋势一目了然。
@@ -243,19 +249,6 @@ journalctl -u funwaf-proxy -f
 
 ---
 
-## 技术栈
-
-| 层级 | 技术 |
-|------|------|
-| 代理引擎 | Pingora (Rust) |
-| WAF 引擎 | 自研语义分析 + 正则规则 |
-| 后端框架 | Axum (Rust) |
-| 数据库 | PostgreSQL 14+ |
-| 前端 | Alpine.js + Tailwind CSS |
-| 限流 | 滑动窗口 + 令牌桶 |
-| 证书 | Let's Encrypt (ACME) + rcgen |
-
----
 
 ## 目录结构
 
