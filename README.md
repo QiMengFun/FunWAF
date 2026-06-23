@@ -212,7 +212,7 @@ FunWAF 安装脚本已适配以下 Linux 发行版：
 方法1:
 ```bash
 # 一键安装最新版
-bash <(curl -sSL https://waf.quqimeng.com/static/funwaf.sh)
+bash <(curl -sSL https://fun.quqimeng.com/waf/static/funwaf.sh)
 ```
 
 
