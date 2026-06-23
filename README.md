@@ -284,7 +284,7 @@ journalctl -u funwaf-proxy -f
 - **免费版**：基础 WAF 防护功能，适合个人和小型站点
 - **Pro 版**：解锁账号管理、错误页面自定义、配置导入导出、多源同步等企业级功能
 
-[购买 Pro 授权]([https://waf.quqimeng.com/buy/](https://fun.quqimeng.com/waf/buy/))
+[购买 Pro 授权](https://fun.quqimeng.com/waf/buy/) https://fun.quqimeng.com/waf/buy/
 
 ---
 
