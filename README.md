@@ -30,8 +30,7 @@ FunWAF 是一款基于 Rust 构建的新一代 Web 应用防火墙（WAF），�
 ## 界面展示
 
 ### 预览Demo
-[预览Demo页面](https://waf.quqimeng.com/demo/)
-Demo页面制作中...
+[预览Demo页面](http://wafdemo.u3u.fun:10001/)
 Demo账号: demo
 Demo密码: 12345678
 
@@ -139,15 +138,15 @@ FunWAF 安装脚本已适配以下 Linux 发行版：
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
-| CentOS | 7, 8, 9 | 完全支持 |
-| Rocky Linux | 8, 9 | 完全支持 |
-| AlmaLinux | 8, 9 | 完全支持 |
-| Red Hat Enterprise Linux | 7, 8, 9 | 完全支持 |
-| Alibaba Cloud Linux | 2, 3, 4 | 完全支持 |
-| Anolis OS | 7, 8 | 完全支持 |
-| OpenCloudOS | 7, 8 | 完全支持 |
-| TencentOS | 2, 3 | 完全支持 |
-| Kylin | V7, V10 | 完全支持 |
+| CentOS | 7, 8, 9+ | 完全支持 |
+| Rocky Linux | 8, 9+ | 完全支持 |
+| AlmaLinux | 8, 9+ | 完全支持 |
+| Red Hat Enterprise Linux | 7, 8, 9+ | 完全支持 |
+| Alibaba Cloud Linux | 2, 3, 4+ | 完全支持 |
+| Anolis OS | 7, 8+ | 完全支持 |
+| OpenCloudOS | 7, 8+ | 完全支持 |
+| TencentOS | 2, 3+ | 完全支持 |
+| Kylin | V7, V10+ | 完全支持 |
 
 ### APT 系（Debian 兼容）
 
